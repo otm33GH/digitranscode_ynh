@@ -62,5 +62,3 @@ ram.runtime = "5M"
     [resources.permissions]
     main.url = "/"
 
-    [resources.nodejs]
-    version = "22"
